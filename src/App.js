@@ -5,8 +5,9 @@ import fish from "./assets/image2.jpg";
 import shadow from "./assets/image3.jpg";
 import sunset from "./assets/image4.jpg";
 import flower from "./assets/image5.jpg";
+import beach from "./assets/image6.jpg";
 
-const images = [tree, fish, shadow, sunset, flower];
+const images = [tree, fish, shadow, sunset, flower, beach];
 
 const Loading = ({calculatedWidth}) => (
   <aside>
